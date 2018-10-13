@@ -1,4 +1,4 @@
-UE4 4.19.2&UE4 4.20.2 + VS2015 community update3 + cuda 8.0 + cudnn 5.1 + WIN10
+UE4 4.19.2&UE4 4.20.2 + VS2015 community update3 + cuda 8.0 + cudnn 5.1 + WIN10 + openpose 1.3
 
 完整工程下载：https://share.weiyun.com/5khmimQ
 1:你需要拷贝下载里的models&ThirdParty到本插件里才能使用此插件.
